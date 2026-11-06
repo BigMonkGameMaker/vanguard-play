@@ -1,0 +1,1 @@
+import"./init-D2zf_xcm.js";import"./index-DS6cUSDK.js";
